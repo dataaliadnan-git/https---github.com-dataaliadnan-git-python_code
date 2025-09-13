@@ -1,3 +1,4 @@
+import os
 
 with open("demo.txt", "r") as f:
     # data = f.write("I am New to Python. Python is easy to learn.")
