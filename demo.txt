@@ -1,1 +1,2 @@
-I am New to JAVASCRIPT. JAVASCRIPT is easy to learn.
+I am New to Python. JAVASCRIPT is easy to learn.
+Python is Halwa Langauge. You can learning it with very low Programming Skills.
