@@ -47,7 +47,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 📜 License<br>
 This project is licensed under the MIT License – feel free to use and adapt.
 <br>
-👤 Author<br>
+👤 Author<br><br>
 Adnan Ali<br>
 💼 Data Engineer | BI Consultant | Cloud Analytics
 <br>
