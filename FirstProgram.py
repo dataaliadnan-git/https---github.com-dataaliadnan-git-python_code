@@ -7,3 +7,4 @@ def even_odd(n):
         print(f"{n} is Odd")  
 print(even_odd(n))
 print("End of an Application")
+print("GTI /GITHUB /GIT /GIT COLON")
