@@ -16,7 +16,13 @@ Databases: MS SQL Server, BigQuery, SQLite<br>
 Cloud: Microsoft Azure, Google Cloud Platform<br>
 Visualization: Power BI, matplotlib, seaborn<br>
 📂 Project Structure <br>
-dataengineering-python/ │── structured/ # Scripts for structured data (CSV, JSON, SQL) │── unstructured/ # Scripts for text, PDF, image processing │── etl/ # ETL workflows and automation │── notebooks/ # Jupyter Notebooks for demos and experiments │── utils/ # Helper functions and utilities │── README.md # Project documentation
+dataengineering-python/<br> 
+│── structured/ # Scripts for structured data (CSV, JSON, SQL) <br>
+│── unstructured/ # Scripts for text, PDF, image processing <br>
+│── etl/ # ETL workflows and automation <br>
+│── notebooks/ # Jupyter Notebooks for demos and experiments<br>
+│── utils/ # Helper functions and utilities <br>
+│── README.md # Project documentation<br>
 <br>
 ⚡ Installation <br>
 Clone this repository:<br>
